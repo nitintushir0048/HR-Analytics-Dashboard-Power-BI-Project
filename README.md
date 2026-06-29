@@ -105,7 +105,8 @@ This dashboard helps HR teams:
     HR Analytics Dashboard.jpg
     
 ## Project Screenshot
-https://github.com/nitintushir0048/HR-Analytics-Dashboard-Power-BI-Project/blob/main/HR%20Analytics%20Dashboard.jpg
+<img width="662" height="373" alt="image" src="https://github.com/user-attachments/assets/6ed56718-18e5-4c3f-b63b-487ef47aab03" />
+
 
 ## Author
 
