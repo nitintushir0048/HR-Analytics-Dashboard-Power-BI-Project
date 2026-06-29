@@ -102,8 +102,12 @@ This dashboard helps HR teams:
 
     HR Analytics Dashboard.pbix
     README.md
+    HR Analytics Dashboard.jpg
+    
+## Project Screenshot
+https://github.com/nitintushir0048/HR-Analytics-Dashboard-Power-BI-Project/blob/main/HR%20Analytics%20Dashboard.jpg
 
 ## Author
 
-Created as a Power BI HR Analytics portfolio project focused on
+Created by me (Nitin Tushir) as a Power BI HR Analytics portfolio project focused on
 workforce intelligence and data-driven decision making.
