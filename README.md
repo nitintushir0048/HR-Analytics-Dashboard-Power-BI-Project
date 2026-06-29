@@ -103,6 +103,8 @@ This dashboard helps HR teams:
     HR Analytics Dashboard.pbix
     README.md
     HR Analytics Dashboard.jpg
+    background-bluee.jpg
+    HR_Analytic.xlsx
     
 ## Project Screenshot
 <img width="662" height="373" alt="image" src="https://github.com/user-attachments/assets/6ed56718-18e5-4c3f-b63b-487ef47aab03" />
